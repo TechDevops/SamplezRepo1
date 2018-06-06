@@ -1,1 +1,2 @@
-Text file for Sample Git
+1) Text file for Sample Git
+2) Welcome 
